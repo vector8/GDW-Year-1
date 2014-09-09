@@ -1,0 +1,6 @@
+Press #MOVE_UP#, #MOVE_LEFT#, #MOVE_DOWN#, and #MOVE_RIGHT# to move.
+
+
+
+
+Press #SKIP# to continue...

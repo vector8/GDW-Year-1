@@ -1,0 +1,8 @@
+map01.map 25 25
+
+player
+13 13
+
+enemies
+enemy1.png 17 15 100 100 5
+enemy2.png 20 10 100 100 5

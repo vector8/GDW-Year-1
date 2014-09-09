@@ -1,0 +1,26 @@
+#pragma once
+
+#include "State.h"
+#include "Button.h"
+#include "StaticBackground.h"
+#include <vector>
+#include "IButtonListener.h"
+
+class SaveLoadMenuState : public State, public IButtonListener
+{
+private:
+	StaticBackground* background;
+
+	std::vector<Button*> buttons;
+
+	void initialize();
+
+public:
+	SaveLoadMenuState();
+	~SaveLoadMenuState();
+
+	void draw();
+	void update(double dt);
+
+	void buttonClicked(ButtonEvent* be);
+};
