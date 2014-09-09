@@ -1,0 +1,29 @@
+acrewood.map 21 21 acrewood_tileset.png
+
+player
+5 20
+
+enemies
+enemy1.png 6 7 40 40 5
+patrol 3 18 7 6 7
+
+doodads
+table.png 7 20 4 2 1 table.txt
+
+neutral
+dyingguy.png 7 13 neutral1.txt
+
+triggers
+time 1000 tutorial.txt
+location 6 15 1 1 tutorial2.txt
+location 8 11 1 1 tutorial3.txt
+location 18 10 2 1 tutorial4.txt
+location 5 6 3 1 tutorial5.txt
+#location 12 11 1 1 tutorial6.txt
+
+pickups
+pistol 18 11
+pistol_ammo 5 8
+
+exit
+6 2 downtown.lvl

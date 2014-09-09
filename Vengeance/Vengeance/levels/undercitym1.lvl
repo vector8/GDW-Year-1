@@ -1,0 +1,33 @@
+undercitym1.map 27 38 tileset_undercity.png
+
+player
+3 29
+
+enemies
+enemy1.png 17 24 100 100 5
+patrol 0 9 24 24 24 
+enemy1.png 16 23 100 100 5
+patrol 0 8 23 24 23
+enemy2.png 10 19 130 130 6
+patrol 5 10 20 10 19
+enemy2.png 13 19 130 130 6
+patrol 5 13 20 13 17
+enemy2.png 10 15 130 130 6
+patrol 5 10 17 10 15
+enemy2.png 13 15 130 130 6
+patrol 5 13 17 13 15
+enemy1.png 18 18 100 100 5
+patrol 1 18 20 18 16 18 20 13 20
+bruiser.png 18 5 200 200 9
+patrol 0 12 5 19 5
+
+pickups
+hamburger 3 15
+pistol_ammo 10 34
+pistol_ammo 5 13
+pistol_ammo 5 12
+pistol_ammo 4 12
+pistol_ammo 22 29
+
+exit
+6 4 undercitym2.lvl

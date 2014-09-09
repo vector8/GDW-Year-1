@@ -1,0 +1,3 @@
+Press #HOTBAR_2# to switch to your pistol.
+#BREAK#
+Press #ATTACK# to fire.

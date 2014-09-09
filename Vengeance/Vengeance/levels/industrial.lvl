@@ -1,0 +1,84 @@
+industrial.map 41 41 industrial_tileset.png
+
+player
+7 40
+
+enemies
+enemy1.png 21 24 100 100 5
+enemy1.png 7 30 100 100 5
+patrol 2 7 30 9 30
+enemy1.png 13 30 100 100 5
+patrol 1 13 30 13 33
+enemy1.png 19 36 100 100 5
+patrol 0 19 36 23 36
+enemy1.png 19 38 100 100 5
+patrol 0 19 38 23 38
+enemy1.png 29 38 100 100 5
+patrol 0 29 38 36 38
+enemy1.png 29 36 100 100 5
+patrol 0 29 36 36 36
+enemy1.png 37 34 100 100 5
+patrol 0 37 34 37 30
+enemy1.png 39 34 100 100 5
+patrol 0 39 34 39 30
+enemy1.png 37 26 100 100 5
+patrol 0 37 26 37 22
+enemy1.png 39 26 100 100 5
+patrol 0 39 26 39 22
+enemy1.png 4 7 100 100 5
+patrol 0 4 7 4 7
+enemy2.png 29 37 130 130 7
+patrol 0 29 37 36 37
+enemy2.png 19 37 130 130 7
+patrol 0 19 37 23 37
+enemy2.png 38 34 130 130 7
+patrol 0 38 34 38 30
+enemy2.png 38 26 130 130 7
+patrol 0 38 26 38 22
+enemy2.png 37 18 130 130 7
+patrol 0 37 18 37 18
+enemy2.png 38 18 130 130 7
+patrol 0 38 18 38 18
+enemy2.png 39 18 130 130 7
+patrol 0 39 18 39 18
+enemy2.png 9 17 130 130 7
+patrol 1 9 17 14 17
+enemy2.png 6 27 130 130 7
+patrol 0 6 27 6 27
+enemy2.png 7 25 130 130 7
+patrol 0 7 25 7 25
+enemy2.png 10 27 130 130 7
+patrol 0 10 27 10 27
+enemy2.png 11 7 130 130 7
+patrol 0 11 7 23 7
+enemy2.png 11 8 130 130 7
+patrol 0 11 8 23 8
+enemy2.png 11 9 130 130 7
+patrol 0 11 9 23 9
+subboss.png 36 8 600 600 10		
+patrol 0 36 8 36 8
+
+pickups
+rifle 32 29
+rifle_ammo 25 38
+rifle_ammo 38 38
+rifle_ammo 8 3
+pistol_ammo 15 36
+pistol_ammo 24 38
+pistol_ammo 38 37
+pistol_ammo 39 37
+pistol_ammo 39 29
+pistol_ammo 9 4
+pistol_ammo 11 19
+pistol_ammo 4 26
+pistol_ammo 5 26
+pistol_ammo 28 13
+grenade 15 38
+grenade 37 29
+grenade 12 19
+hamburger 39 38
+hamburger 8 4
+hamburger 28 11
+
+exit
+36 2 warehouse.lvl

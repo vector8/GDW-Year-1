@@ -1,0 +1,66 @@
+warehouse.map 30 30 warehouse_tileset.png
+
+player
+15 29
+
+enemies
+enemy2.png 22 27 130 130 6
+patrol 0 22 27 22 27
+enemy2.png 10 23 130 130 6
+patrol 0 10 23 13 23
+enemy2.png 17 23 130 130 6
+patrol 0 17 23 14 23
+enemy2.png 4 19 130 130 6
+patrol 0 4 19 8 19
+enemy2.png 9 21 130 130 6
+patrol 0 9 21 9 18
+enemy2.png 4 16 130 130 6
+patrol 0 4 16 8 12
+enemy2.png 4 11 130 130 6
+patrol 0 4 11 6 11
+enemy2.png 7 10 130 130 6
+patrol 0 7 10 7 12
+enemy2.png 12 13 130 130 6
+patrol 0 12 13 16 13
+enemy2.png 11 14 130 130 6
+patrol 0 11 14 15 18
+enemy2.png 25 14 130 130 6
+patrol 0 25 14 25 24
+enemy2.png 20 23 130 130 6
+patrol 0 20 23 20 23
+enemy2.png 28 17 130 130 6
+patrol 0 28 17 28 17
+enemy2.png 28 20 130 130 6
+patrol 0 28 20 28 20
+enemy2.png 21 10 130 130 6
+patrol 0 21 10 21 10
+enemy2.png 21 11 130 130 6
+patrol 0 21 11 21 11
+enemy2.png 22 11 130 130 6
+patrol 0 22 11 22 11
+enemy2.png 13 10 130 130 6
+patrol 0 13 10 13 13
+bruiser.png 5 26 200 200 9
+patrol 0 5 26 5 27
+bruiser.png 5 10 200 200 9
+patrol 0 5 10 5 10
+docmaybe.png 9 4 1500 1500 25
+
+doodads
+table.png 6 27 4 2 1 table.txt
+stash.png 9 3 3 3 1 table.txt
+
+pickups
+pistol_ammo 4 27
+pistol_ammo 16 10
+pistol_ammo 17 10
+pistol_ammo 20 24
+pistol_ammo 21 24
+pistol_ammo 27 15
+rifle_ammo 5 28
+rifle_ammo 4 10
+rifle_ammo 21 12
+grenade 28 15
+hamburger 4 28
+hamburger 6 10
+hamburger 20 12
