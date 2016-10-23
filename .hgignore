@@ -1,0 +1,5 @@
+syntax: glob
+Vengeance/.vs/
+Vengeance/Debug/Vengeance.pdb
+Vengeance/Vengeance/Debug/
+Vengeance/Vengeance.VC.db

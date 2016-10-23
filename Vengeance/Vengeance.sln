@@ -1,9 +1,9 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Vengeance", "Vengeance\Vengeance.vcxproj", "{F26576F0-006A-41E5-9EA6-BCB190C26B64}"
-EndProject
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Hexteria Vengeance", "Hexteria Vengeance\Hexteria Vengeance.vdproj", "{0906F203-B201-4C8D-96F1-CE658067369D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,8 +15,6 @@ Global
 		{F26576F0-006A-41E5-9EA6-BCB190C26B64}.Debug|Win32.Build.0 = Debug|Win32
 		{F26576F0-006A-41E5-9EA6-BCB190C26B64}.Release|Win32.ActiveCfg = Release|Win32
 		{F26576F0-006A-41E5-9EA6-BCB190C26B64}.Release|Win32.Build.0 = Release|Win32
-		{0906F203-B201-4C8D-96F1-CE658067369D}.Debug|Win32.ActiveCfg = Debug
-		{0906F203-B201-4C8D-96F1-CE658067369D}.Release|Win32.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
